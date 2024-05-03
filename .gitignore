@@ -1,0 +1,8 @@
+# C/C++ output should be ignored
+.o
+.obj
+.output
+.elf
+
+# CppUtest framework 
+cpputest/
