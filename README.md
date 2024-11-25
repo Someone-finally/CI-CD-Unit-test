@@ -8,4 +8,5 @@ Used docker to setup an ubuntu image that can create and destroy containers once
 The same workflow is then implemented using Github-actions to set up docker containers to check the Unit test. 
 
 Purpose : Continous Integration frameowork. The unit test will be automated and checked after each succesful push in Github. 
+This is used exactly for CI/CD
 
